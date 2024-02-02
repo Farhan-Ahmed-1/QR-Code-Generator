@@ -12,7 +12,7 @@ body{
   min-height: 100vh;
   align-items: center;
   background: #3498DB;
-  background:url(img/website-development.jpg) no-repeat center center/cover;
+  background:url(img/bg-qr.jpg) no-repeat center center/cover;
   justify-content: center;
 }
 ::selection{
